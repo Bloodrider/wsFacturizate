@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<publishData>
+  <publishProfile publishUrl="C:\Users\CHACK\NET\PublicarWSRepresentacionImpresa" deleteExistingFiles="True" ftpAnonymousLogin="False" ftpPassiveMode="True" msdeploySite="" msdeploySiteID="" msdeployRemoteSitePhysicalPath="" msdeployAllowUntrustedCertificate="False" msdeploySkipExtraFilesOnServer="True" msdeployMarkAsApp="False" profileName="Perfil1" publishMethod="FileSystem" replaceMatchingFiles="False" userName="" savePWD="False" userPWD="" SelectedForPublish="True">
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r1_c1.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="bin/BarcodeLib.Barcode.dll" publishTime="01/15/2011 23:29:28" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r2_c8.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r7_c6.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r3_c4.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r4_c2.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mensaje_proveedor.html" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="bin/wsRepresentacionImpresa.dll" publishTime="07/23/2012 20:33:06" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r3_c7.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r7_c2.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="bin/r3TakeCore.dll" publishTime="09/23/2011 18:35:00" />
+    <file relUrl="mailing/mr_proveedores/mensaje_proveedor.html" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="bin/wsRepresentacionImpresa.pdb" publishTime="07/23/2012 20:33:06" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r5_c5.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="bin/HyperSoft.Shared.dll" publishTime="04/07/2012 15:27:20" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r11_c1.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r2_c1.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/asdasdasd.html" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="bin/Microsoft.WindowsAzure.StorageClient.xml" publishTime="10/24/2011 17:37:32" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r3_c2.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="bin/ChilkatDotNet4.dll" publishTime="05/27/2011 08:09:54" />
+    <file relUrl="mailing/mr_proveedores/mensaje_proveedor_reg.html" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mensaje_registro.html" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="bin/itextsharp.dll" publishTime="08/20/2009 20:48:26" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r5_c2.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r6_c3.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r10_c2.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/invitaRecepcion.html" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r2_c2.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/Untitled-1.html" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="bin/HyperSoft.ElectronicDocumentLibrary.dll" publishTime="04/07/2012 15:27:36" />
+    <file relUrl="mailing/fx - copia.html" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="Web.config" publishTime="07/14/2012 13:36:28" />
+    <file relUrl="bin/Microsoft.WindowsAzure.StorageClient.dll" publishTime="11/03/2011 15:32:50" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r5_c3.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="bin/HyperSoft.Base.dll" publishTime="04/07/2012 15:27:20" />
+    <file relUrl="mailing/fx.html" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r5_c3_2.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mr_proveedores/img/spacer.gif" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r9_c6.jpg" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="mailing/mr_proveedores/mensaje_proveedor.png" publishTime="06/05/2012 22:11:54" />
+    <file relUrl="wsRepresentacionImpresa.asmx" publishTime="06/05/2012 19:03:00" />
+    <file relUrl="mailing/mr_proveedores/img/mensaje_proveedor_r8_c2.jpg" publishTime="06/05/2012 22:11:54" />
+  </publishProfile>
+</publishData>
