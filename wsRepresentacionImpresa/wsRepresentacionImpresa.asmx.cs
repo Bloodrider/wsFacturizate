@@ -372,7 +372,7 @@ namespace wsRepresentacionImpresa
                 return "0#No se Encontró el Cfdi";
             }
         }
-
+        //
         #endregion
 
         #region "cargarXml"
